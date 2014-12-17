@@ -1,17 +1,8 @@
-txt = <<-TXT
-
-      ＿人人人人人人人人人人人人人人人＿
-      ＞　Rails Application Templates　＜
-      ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^YY^Y￣
-
-TXT
-puts txt
-
 #
 # Rails Application Template
 #
 
-repo_url = '~/sample/app_template'
+repo_url = 'https://raw.githubusercontent.com/m-taira/rails-application-template/master'
 gems = {}
 
 # gems
